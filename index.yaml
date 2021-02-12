@@ -3,7 +3,17 @@ entries:
   what-the-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-02-12T17:04:22.2506972Z"
+    created: "2021-02-12T17:38:28.1389667Z"
+    description: A Helm chart for Kubernetes
+    digest: eceb5d8f71b5fe6d85d2a09481bac94ab3e1ba1e20c9654a9ee51b057ef3d013
+    name: what-the-helm
+    type: application
+    urls:
+    - what-the-helm-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-02-12T17:38:28.1389667Z"
     description: A Helm chart for Kubernetes
     digest: 958df20d59bfc381ed02038681e50175b5d398f925c82eb138f247fde8a21f74
     name: what-the-helm
@@ -13,7 +23,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-02-12T17:04:22.2496971Z"
+    created: "2021-02-12T17:38:28.1379671Z"
     description: A Helm chart for Kubernetes
     digest: 84e70554d873b8a7c229a46bb8e2d6264363d81eb1bc6b826338693db62e1e52
     name: what-the-helm
@@ -21,4 +31,4 @@ entries:
     urls:
     - what-the-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2021-02-12T17:04:22.2486968Z"
+generated: "2021-02-12T17:38:28.1379671Z"
